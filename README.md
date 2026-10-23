@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Stroster+%F0%9F%91%8B;Full-Stack+Developer;Building+ideas+into+useful+software" alt="Typing introduction" />
 
-# Hey, I'm Stroster 👋
+# Hey, I'm Alex - AKA Stroster 👋
 
 **Full-Stack Developer** · Building web apps, APIs, and useful tools
 
